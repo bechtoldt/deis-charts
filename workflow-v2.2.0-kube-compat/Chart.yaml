@@ -1,4 +1,4 @@
-name: workflow-v2.2.0
+name: workflow-v2.2.0-compat
 home: https://github.com/deis/workflow
 version: v2.2.0
 description: Deis Workflow
